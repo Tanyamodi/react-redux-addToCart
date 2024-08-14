@@ -34,7 +34,7 @@ const Cart = () => {
             </div>
 
 
-            <div className="w-[100%] md:w-[40%] mt-5  flex flex-col">
+            <div className="w-[100%] md:w-[40%] mt-5  flex flex-col p-[20px]">
               <div className="flex flex-col p-5 gap-5 my-14  h-[100%] justify-between">
                 <div className="flex flex-col gap-5 ">
                   <div className="font-semibold text-xl text-green-800 ">Your Cart</div>
